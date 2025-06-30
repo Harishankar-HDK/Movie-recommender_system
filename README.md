@@ -23,4 +23,4 @@ This is a simple content-based movie recommender system build using the TMDB mov
 * Streamlit
 * OMDB API(for fetching posters)
 
-## Use your OMDB API key by generating a new API key from its website for fetching the posters for recommended movies and also you can use your firebase_credential_path to set the user login
+### Use your OMDB API key by generating a new API key from its website for fetching the posters for recommended movies and also you can use your firebase_credential_path to set the user login
