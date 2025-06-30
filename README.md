@@ -10,15 +10,17 @@ This is a simple content-based movie recommender system build using the TMDB mov
 - simple and clean UI using Streamlit.
 - Poster images fetched from OMDB API.
 
-# Usage 
+## Usage 
 
 - Select a movie from the dropdown list.
 - Get 5 similar movies with posters displayed
 
-# Technologies Used
+## Technologies Used
 
 * Python
 * Pandas
 * Scikit-learn
 * Streamlit
 * OMDB API(for fetching posters)
+
+## Use your OMDB API key by generating a new API key from its website for fetching the posters for recommended movies and also you can use your firebase_credential_path to set the user login
